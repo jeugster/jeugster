@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **jeugster/jeugster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a rel="me" href="https://indieweb.social/@jonathaneugster">Mastodon</a>
+<a rel="me" href="https://indieweb.social/@jonathaneugster"></a>
