@@ -1,4 +1,4 @@
-### Well now... a visitor. We don't get too of many of those round here. Come, sit, by the fire. Stay a while.
+### Currently fiddling
 
 <!--
 **jeugster/jeugster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
